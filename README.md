@@ -1,7 +1,7 @@
 ### Technology stack
  - HTML
  - SCSS
- - Vanilla.js (OOP)
+ - JavaScript (OOP)
  - Gulp
  - Local Storage
  
