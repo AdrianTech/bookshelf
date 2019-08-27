@@ -4,6 +4,7 @@
  - JavaScript (OOP)
  - Gulp
  - Local Storage
+ - Mobile-first
  
 #### Description
 Just put your favourite book on your virtual bookshelf. To use bookshelf, click the link below.
